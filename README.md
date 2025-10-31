@@ -11,19 +11,19 @@ Passionate about **transforming raw data into actionable insights**, I focus on 
 
  Skills & Tools  
 
-- 📊 **Excel**: Advanced Functions, Pivot Tables, Dashboards, Macros & VBA  
-- 📈 **Power BI**: DAX, Power Query, KPI Tracking, Interactive Dashboards  
-- 📊 **Tableau**: Interactive Dashboards & Business Reporting  
-- 🗄️ **SQL (MySQL)**: Data Cleaning, Joins, Aggregations, Query Optimization  
-- 🐍 **Python**: Pandas, NumPy, Matplotlib (Data Analysis & Visualization)  
-- 📉 **Data Visualization**: Charts, KPIs, Storytelling with Data  
+-  **Excel**: Advanced Functions, Pivot Tables, Dashboards, Macros & VBA  
+-  **Power BI**: DAX, Power Query, KPI Tracking, Interactive Dashboards  
+-  **Tableau**: Interactive Dashboards & Business Reporting  
+-  **SQL (MySQL)**: Data Cleaning, Joins, Aggregations, Query Optimization  
+-  **Python**: Pandas, NumPy, Matplotlib (Data Analysis & Visualization)  
+-  **Data Visualization**: Charts, KPIs, Storytelling with Data  
 
 ---
 
 ## 📊 Key Focus Areas  
 
-- 🔹 Data Cleaning & Automation  
-- 🔹 Dashboard Development & Reporting  
-- 🔹 Statistical & Business Analysis  
-- 🔹 Business Intelligence Solutions  
+-  Data Cleaning & Automation  
+-  Dashboard Development & Reporting  
+-  Statistical & Business Analysis  
+-  Business Intelligence Solutions  
 

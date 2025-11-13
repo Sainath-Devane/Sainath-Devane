@@ -4,19 +4,20 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎯 I’m a **detail-oriented aspiring Data Analyst** with strong analytical and visualization skills.  
-- 📊 Skilled in **Data Visualization, Statistical Analysis, and Database Management**.  
-- 🧠 Passionate about transforming **raw data into actionable insights**.  
-- 🌱 Currently learning **Advanced Power BI (DAX), SQL Optimization, and Python for Data Analysis**.  
-- 💬 Ask me about **Dashboards, KPIs, Data Cleaning, and Business Analysis**.  
-- 📫 Reach me at: **sainathd918@gmail.com**  
-- ✨ Quote: _“Data is the new oil, and I love refining it into insights that drive decisions.”_  
+- 🎯 I’m a **detail-oriented aspiring Data Analyst** with hands-on skills in analytics and dashboards.  
+- 📊 Experienced in **Data Visualization, Statistical Analysis, and Database Management**.  
+- 🔍 Passionate about converting **raw data → clean insights → business decisions**.  
+- 🌱 Currently improving **SQL optimization, DAX, Tableau storytelling, and Python EDA**.  
+- 💬 Ask me about **Dashboards, KPIs, Data Cleaning, and Visual Insights**.  
+- 📫 Reach me: **sainathd918@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/sainath-devane**  
+- ✨ *“Data is the new oil, and I love refining it into insights that drive decisions.”*  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/sainath-devane" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40">
 </a>
 <a href="mailto:sainathd918@gmail.com" target="blank">
@@ -32,23 +33,23 @@
 - Advanced Functions | Pivot Tables | Dashboards | Macros | VBA  
 
 ### **📊 Power BI**
-- DAX | Power Query | KPI Tracking | Interactive Dashboards  
+- DAX | Power Query | Data Modeling | Interactive Dashboards  
 
 ### **📉 Tableau**
-- Interactive Dashboards | Business Reporting  
+- Business Dashboards | Storytelling | KPI Reporting  
 
 ### **🗄 SQL (MySQL)**
-- Joins | CTEs | Aggregations | Data Cleaning | Query Optimization  
+- Joins | CTEs | Subqueries | Data Cleaning | Aggregations | Query Optimization  
 
 ### **🐍 Python**
-- Pandas | NumPy | Matplotlib | EDA | Statistical Analysis  
+- Pandas | NumPy | Matplotlib | EDA | Insights  
 
 ### **🎨 Data Visualization**
-- KPIs | Charts | Visual Storytelling | Insights  
+- Charts | KPIs | Storytelling | Data Interpretation  
 
 ---
 
-## 🧰 Tech Stack Icons  
+## 🧰 Tech Stack (Icons)  
 <p>
 <img src="https://skillicons.dev/icons?i=excel" height="50" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/>
@@ -62,39 +63,40 @@
 
 ## 🎯 Key Focus Areas  
 - Data Cleaning & Automation  
-- Dashboard Development & Business Reporting  
+- Dashboard Development & Reporting  
+- Business Intelligence & KPI Tracking  
 - Statistical & Business Analysis  
-- Business Intelligence Solutions  
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Projects  
+*(Since you already have projects on GitHub, add the repo links here.)*
 
 ### 📌 **Power BI Sales Dashboard**
-- KPIs: Revenue, Profit, YoY Growth  
-- DAX measures, slicers, drill-downs  
-🔗 *Add project link*
+- Revenue, Profit, YoY Trends  
+- DAX Measures | Slicers | Drill-down Insights  
+🔗 GitHub: *add your repo link here*
 
 ---
 
-### 📌 **SQL Retail Analytics Case Study**
-- Joins, CTEs, Window Functions  
-- Insights for business performance  
-🔗 *Add repository link*
+### 📌 **SQL Project – Retail Analytics**
+- Joins, Window Functions, CTEs  
+- Customer segmentation & sales insights  
+🔗 GitHub: *add your repo link here*
 
 ---
 
 ### 📌 **Python EDA – Data Cleaning & Visualization**
-- Pandas, NumPy, Matplotlib  
-- Exploratory Data Analysis & insights  
-🔗 *Add repo link*
+- Pandas | NumPy | Matplotlib  
+- Deep data profiling & business insights  
+🔗 GitHub: *add your repo link here*
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=react" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=react" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sainath-devane&show_icons=true&theme=react" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainath-devane&layout=compact&theme=react" />
 </p>
 
 ---

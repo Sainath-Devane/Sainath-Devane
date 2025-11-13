@@ -26,15 +26,16 @@
 ---
 
 ## 🛠 Languages and Tools  
+ 
 <p align="left">
 
 <!-- Excel -->
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" />
+<img height="50" src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" />
 
 <!-- Power BI -->
 <img height="50" src="https://img.icons8.com/color/480/power-bi.png" />
 
-<!-- SQL -->
+<!-- MySQL -->
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <!-- Python -->

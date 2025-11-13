@@ -15,11 +15,11 @@
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/sainath-devane" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/in/sainath-devane" target="_blank">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="mailto:sainathd918@gmail.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" />
+<a href="mailto:sainathd918@gmail.com" target="_blank">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
 </a>
 </p>
 
@@ -27,18 +27,30 @@
 
 ## 🛠 Languages and Tools  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=excel" height="50" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50" />
-<img src="https://skillicons.dev/icons?i=python" height="50" />
-<img src="https://skillicons.dev/icons?i=tableau" height="50" />
-<img src="https://skillicons.dev/icons?i=git" height="50" />
+
+<!-- Excel -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-plain.svg" />
+
+<!-- Power BI -->
+<img height="50" src="https://img.icons8.com/color/480/power-bi.png" />
+
+<!-- SQL -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<!-- Python -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<!-- Tableau -->
+<img height="50" src="https://img.icons8.com/color/480/tableau-software.png" />
+
+<!-- Git -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 </p>
 
 ---
 
 ### 📌 Featured Projects  
-*(Your repos are already on GitHub — add links here)*
 
 #### 🔹 **Power BI Sales Dashboard**  
 #### 🔹 **SQL Retail Analytics Case Study**  
